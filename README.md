@@ -7,6 +7,7 @@
 ## 📸 프로그램 구동 화면
 ![프로그램 스크린샷](https://github.com/user-attachments/assets/015a6f28-86a8-4e51-8589-e7acffcc4649)
 
+![프로그램스크린샷](https://github.com/user-attachments/assets/d36c428e-f62a-486b-bc4f-f601bd6664d6)
 ---
 
 ## ✨ 핵심 치트키 기능
